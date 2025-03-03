@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817282941528",
+    "project_id": "newsapp000",
+    "storage_bucket": "newsapp000.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817282941528:android:983914eb7e2b900d7f002d",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxXNq481hNebveWEPTALMMAFr0fEa4uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817282941528:android:f1e8651d1d332fea7f002d",
+        "android_client_info": {
+          "package_name": "com.example.newsreportingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxXNq481hNebveWEPTALMMAFr0fEa4uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

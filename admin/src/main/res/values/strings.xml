@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="image_content_description">Uploaded news image</string>
+    <string name="news_image">News Image</string>
+</resources>
